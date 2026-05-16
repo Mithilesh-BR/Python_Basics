@@ -746,7 +746,7 @@ obj_name2 = ClassName()
 #     pass
 '''
 
-write a class deco to print 'hai' before execution of main func'''
+write a class deco to print 'hai' before execution of main func....'''
 
 # class Sample:
 #     def __init__(self, func):
